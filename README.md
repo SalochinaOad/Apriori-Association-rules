@@ -12,13 +12,13 @@ Market_Basket_Analysis.R: R script to preprocess data, run Apriori algorithm, an
 README.md: This file.
 
 ### Project Setup & Requirements
-Software:
+#### Software:
 
-#### R (version ≥ 4.0)
-#### RStudio (recommended IDE)
+R (version ≥ 4.0)
+RStudio (recommended IDE)
 
 ### R Packages Required:
 
-#### arules: For association rule mining
-#### arulesViz (optional): For visualization of rules
-#### pacman: For package management
+arules: For association rule mining
+arulesViz (optional): For visualization of rules
+pacman: For package management
